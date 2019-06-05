@@ -4,7 +4,7 @@ Computer Vision Final project
 The network is trained on MSRA10k dataset resized to [256, 256]. However, for testing phase, any image size is fine. 
 
 Dependencies:
-Tensorflow 1.5
+Tensorflow 1.5.0
 Python 2.7 (3.0 should be ok)
 
 
