@@ -1,0 +1,2 @@
+model_checkpoint_path: "NLD-UNET_SD-TF-175000"
+all_model_checkpoint_paths: "NLD-UNET_SD-TF-175000"
