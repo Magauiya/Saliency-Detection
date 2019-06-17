@@ -1,6 +1,8 @@
 # Saliency-Detection
 Computer Vision Final project
 
+Detailed report and experimental results are in report.pdf file. 
+
 The network is trained on MSRA10k dataset resized to [256, 256]. However, for testing phase, any image size is fine. 
 
 Dependencies:
