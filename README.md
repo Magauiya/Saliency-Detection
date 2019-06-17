@@ -12,6 +12,8 @@ To test the U-NLCF network, please write this command to the terminal:
 
 python2 main.py --gpu=1 --phase='test' —test_path=“your test set path”
 
+P.S. Checkpoints can be downloaded via this link: https://drive.google.com/drive/folders/1i23TJsg7pNyvRM-MlJUiCqgEn2LZ2HST?usp=sharing
+
 Please make sure that input image and its ground truth are in the same folder and input image should have ‘.jpg’ format, while its saliency map should be ‘.png’ format. Otherwise, we need to change reading function in utils.py. Output saliency map is stored automatically in predictions/testing/ folder.
 
 To train:
