@@ -6,8 +6,8 @@ Detailed report and experimental results are [here](report.pdf).
 The network is trained on MSRA10k dataset resized to [256, 256]. However, for testing phase, any image size is fine. 
 
 **Dependencies:**
-Tensorflow 1.5.0
-Python 2.7 (3.0 should be ok)
+- Tensorflow 1.5.0
+- Python 2.7 (3.0 should be ok)
 
 Following commands are used to test/train the U-NLCF network:
 
@@ -25,7 +25,7 @@ Please make sure that input image and its ground truth are in the same folder an
 
 The code consists of three parts:
 
-main.py 			 - to set learning parameters and path
-model_NLD_UNET.py - contains U-NLCS model and train/inference functions
-utils.py			 - contains reading, storing, evaluating functions 
+- main.py 			    - to set learning parameters and path
+- model_NLD_UNET.py - contains U-NLCS model and train/inference functions
+- utils.py			    - contains reading, storing, evaluating functions 
 
