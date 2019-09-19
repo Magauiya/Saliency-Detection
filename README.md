@@ -1,5 +1,5 @@
 # Saliency-Detection
-Detailed report and experimental results are [here](report.pdf). 
+Detailed report and experiment results are [here](report.pdf). 
 
 The network is trained on MSRA10k dataset resized to [256, 256]. However, for testing phase, any image size is fine. 
 
